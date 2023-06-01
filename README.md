@@ -1,6 +1,6 @@
 # [PowerBI] User Churn Analysis
 ## INTRODUCTION
-**1. Introduction on dataset**
+<br> **1. Introduction on dataset**
 * Churn rate is the percentage of users who have stopped using an app. This could be customers who have lapsed in use, so they are no longer starting sessions, or it could be customers who have uninstalled the app.
 * Dataset includes a *dim table* containing information about users of a telecommunications network company, including fields of demographic information and others related to user churn
 <br>**2. Data Dictionary**
